@@ -33,6 +33,6 @@
   },
   "scripts": {
     "test": "mocha --ui qunit --reporter spec",
-    "start": "./bin/server"
+    "start": "node ./bin/server"
   }
 }
